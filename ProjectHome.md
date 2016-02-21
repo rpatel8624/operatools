@@ -1,0 +1,1 @@
+Lucidity OperaTools is an HR Module for Small and Medium business in India. It features some core modules such as employee information management, performance tracking, payroll, trainings, organization issue tracking, etc
